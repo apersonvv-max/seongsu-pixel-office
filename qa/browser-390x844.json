@@ -1,0 +1,116 @@
+{
+  "at": "2026-11-06T22:59:56.853Z",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "passed": 21,
+  "failed": 0,
+  "results": [
+    {
+      "name": "five fixed species",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "all 30 state routes arrive",
+      "pass": true,
+      "detail": "30 / 30"
+    },
+    {
+      "name": "continuous movement avoids furniture",
+      "pass": true,
+      "detail": "0 collisions"
+    },
+    {
+      "name": "seated actor behind desk front",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "state select executes actual handler",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "team tab shown",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "task board retains original IDs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "zoom dialog opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "zoom dialog closes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "pause stops movement",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "original records unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "legacy localStorage key unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "new storage namespace only",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "no horizontal overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bullfrog has 24 native frames",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "treefrog has 24 native frames",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "capybara has 24 native frames",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "lunamoth has 24 native frames",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "octopus has 24 native frames",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "1024x576 logical canvas",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "state and animation separate",
+      "pass": true,
+      "detail": ""
+    }
+  ]
+}
