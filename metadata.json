@@ -1,0 +1,8 @@
+{
+  "name": "성수동이팀장 · 작은 동료들의 오피스",
+  "description": "성수동이팀장 픽셀 오피스 - 다섯 동료의 움직임과 시연 업무 보드",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

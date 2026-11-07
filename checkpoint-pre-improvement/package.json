@@ -1,0 +1,14 @@
+{
+  "name": "seongsu-pixel-office",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Standalone pixel office demo",
+  "scripts": {
+    "dev": "node server.cjs",
+    "start": "node server.cjs",
+    "build": "node server.cjs --build",
+    "lint": "node -c server.cjs app.js art.js core.js legacy-data.js test-core.cjs",
+    "test": "node test-core.cjs"
+  },
+  "engines": { "node": ">=18" }
+}

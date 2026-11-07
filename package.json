@@ -7,7 +7,14 @@
     "dev": "node server.cjs",
     "start": "node server.cjs",
     "build": "node server.cjs --build",
+    "lint": "node -c server.cjs app.js art.js core.js legacy-data.js test-core.cjs",
     "test": "node test-core.cjs"
   },
-  "engines": { "node": ">=18" }
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@google/genai": "^3.0.0",
+    "sharp": "^0.35.5"
+  }
 }
